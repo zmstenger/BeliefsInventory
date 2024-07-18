@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BeliefsInventory/static/css/main.94032124.css",
-    "main.js": "/BeliefsInventory/static/js/main.6669e529.js",
-    "static/js/787.86b813aa.chunk.js": "/BeliefsInventory/static/js/787.86b813aa.chunk.js",
+    "main.js": "/BeliefsInventory/static/js/main.e0ec5b6b.js",
+    "static/js/787.063e0b52.chunk.js": "/BeliefsInventory/static/js/787.063e0b52.chunk.js",
     "index.html": "/BeliefsInventory/index.html",
     "main.94032124.css.map": "/BeliefsInventory/static/css/main.94032124.css.map",
-    "main.6669e529.js.map": "/BeliefsInventory/static/js/main.6669e529.js.map",
-    "787.86b813aa.chunk.js.map": "/BeliefsInventory/static/js/787.86b813aa.chunk.js.map"
+    "main.e0ec5b6b.js.map": "/BeliefsInventory/static/js/main.e0ec5b6b.js.map",
+    "787.063e0b52.chunk.js.map": "/BeliefsInventory/static/js/787.063e0b52.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94032124.css",
-    "static/js/main.6669e529.js"
+    "static/js/main.e0ec5b6b.js"
   ]
 }
